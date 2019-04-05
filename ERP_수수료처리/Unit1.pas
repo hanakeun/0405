@@ -18,10 +18,10 @@ uses
 
 
 
-// 0405test 깃허브에 올리기.
-// 로컬에서 델파이 이용해서 바로 올리기.    dd
+// 0405test 깃허브에 올리기.                                d
+// 로컬에서 델파이 이용해서 바로 올리기.    dd            fdsafdsafdsaf
 
-
+// 헤헤새로올렸지롱
 
 type
   TForm1 = class(TForm)
